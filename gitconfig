@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = ismailovaj@yahoo.com
+	name = Janyl Ismailova
